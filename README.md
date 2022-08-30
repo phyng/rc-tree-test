@@ -8,7 +8,7 @@ npm start
 
 error:
 
-```
+```ts
 ➜  rc-tree-test git:(master) ✗ npm start
 
 > rc-tree-test@1.0.0 start /Users/phyng/dev/packages/rc-tree-test
